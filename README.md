@@ -1,5 +1,18 @@
+JStore 
+User 
+Android : https://play.google.com/store/apps/details?id=com.jstore.users
+Ios : https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1/id6738069584
+Vendor
+Ios : https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1-%D8%AA%D8%A7%D8%AC%D8%B1/id6738066166
+
+elkadra School 
+Android : https://play.google.com/store/apps/details?id=com.khadraa.schools
+
+qbs 
+Android : https://play.google.com/store/apps/details?id=com.academy.qabbas
+
 elbd3a 
-Android : https://play.google.com/store/apps/details?id=com.goods.elbda
+Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%B9%D8%A9/id6737291419
 
 Kiro Travel (Hotel Services)
 Android : https://play.google.com/store/apps/details?id=com.kirotravel.hotel
