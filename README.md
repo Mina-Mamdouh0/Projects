@@ -3,6 +3,7 @@ User
 Android : https://play.google.com/store/apps/details?id=com.jstore.users
 Ios : https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1/id6738069584
 Vendor
+Android : https://play.google.com/store/apps/details?id=com.jstore.vendor
 Ios : https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1-%D8%AA%D8%A7%D8%AC%D8%B1/id6738066166
 
 elkadra School 
