@@ -1,3 +1,6 @@
+Adres
+Android : https://play.google.com/store/apps/details?id=com.edgu.edrsapp
+
 JStore 
 User 
 Android : https://play.google.com/store/apps/details?id=com.jstore.users
