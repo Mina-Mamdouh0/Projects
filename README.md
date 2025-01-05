@@ -1,5 +1,6 @@
 Adres
 Android : https://play.google.com/store/apps/details?id=com.edgu.edrsapp
+Ios : https://apps.apple.com/us/app/%D8%A7%D8%AF%D8%B1%D8%B3/id6739828735
 
 JStore 
 User 
@@ -11,6 +12,7 @@ Ios : https://apps.apple.com/us/app/%D8%AC%D9%8A-%D8%B3%D8%AA%D9%88%D8%B1-%D8%AA
 
 elkadra School 
 Android : https://play.google.com/store/apps/details?id=com.khadraa.schools
+Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/id6739961480
 
 qbs 
 Android : https://play.google.com/store/apps/details?id=com.academy.qabbas
