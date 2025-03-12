@@ -21,10 +21,10 @@ elbd3a
 Adres : https://play.google.com/store/apps/details?id=goods.goods
 Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%B9%D8%A9/id6737291419
 
-Kiro Travel (Hotel Services)
+Kiro Travel (Hotel Services)(Franch only)
 Android : https://play.google.com/store/apps/details?id=com.kirotravel.hotel
 
-Kiro Travel (Commander un VTC)
+Kiro Travel (Commander un VTC)(Franch only)
 Android : https://play.google.com/store/apps/details?id=com.kirodev.commander
 
 Varny 
