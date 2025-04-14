@@ -1,3 +1,15 @@
+InClick 
+User 
+Android : https://play.google.com/store/apps/details?id=com.oncleck.client
+Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%B4%D9%88%D8%A8/id6743123072
+Vendor
+Android : https://play.google.com/store/apps/details?id=com.onclick.vendor
+Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6743126759
+
+eltwheed school 
+Android : https://play.google.com/store/apps/details?id=com.tawheed.schools
+Ios : https://apps.apple.com/us/app/%D9%85%D8%AF%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%AA%D9%88%D8%AD%D9%8A%D8%AF-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9/id6742420547
+
 Adres
 Android : https://play.google.com/store/apps/details?id=com.edgu.edrsapp
 Ios : https://apps.apple.com/us/app/%D8%A7%D8%AF%D8%B1%D8%B3/id6739828735
