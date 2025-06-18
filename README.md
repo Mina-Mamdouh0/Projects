@@ -1,12 +1,10 @@
-OnClick 
-User 
-Android : https://play.google.com/store/apps/details?id=com.oncleck.client
-Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%B4%D9%88%D8%A8/id6743123072
-Vendor
-Android : https://play.google.com/store/apps/details?id=com.onclick.vendor
-Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6743126759
+elbd3a 
+Adres : https://play.google.com/store/apps/details?id=goods.goods
+Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%B9%D8%A9/id6737291419
 
-Royal CRM (WEB): http://37.27.213.99/web/
+Sharikni
+Android: https://play.google.com/store/apps/details?id=com.sharikni.rent
+Ios: https://apps.apple.com/us/app/sharikni/id6447753177
 
 eltwheed school 
 Android : https://play.google.com/store/apps/details?id=com.tawheed.schools
@@ -28,12 +26,18 @@ elkadra School
 Android : https://play.google.com/store/apps/details?id=com.khadraa.schools
 Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1/id6739961480
 
+OnClick 
+User 
+Android : https://play.google.com/store/apps/details?id=com.oncleck.client
+Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%B4%D9%88%D8%A8/id6743123072
+Vendor
+Android : https://play.google.com/store/apps/details?id=com.onclick.vendor
+Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6743126759
+
+Royal CRM (WEB): http://37.27.213.99/web/
+
 qbs 
 Android : https://play.google.com/store/apps/details?id=com.academy.qabbas
-
-elbd3a 
-Adres : https://play.google.com/store/apps/details?id=goods.goods
-Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%B9%D8%A9/id6737291419
 
 Kiro Travel (Hotel Services)(Franch only)
 Android : https://play.google.com/store/apps/details?id=com.kirotravel.hotel
@@ -67,10 +71,6 @@ Android: https://play.google.com/store/apps/details?id=cr.nassersons.app&pli=1
 
 Mushir
 Android:  https://play.google.com/store/apps/details?id=com.lawyer.mushir&pli=1
-
-Sharikni
-Android: https://play.google.com/store/apps/details?id=com.rentagency.yomak
-Ios: https://apps.apple.com/us/app/sharikni/id6447753177
 
 Specialized Courses
 Android: https://play.google.com/store/apps/details?id=com.church.specializedcourses
