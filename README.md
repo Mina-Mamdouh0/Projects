@@ -36,6 +36,10 @@ Ios : https://apps.apple.com/us/app/%D8%A3%D9%88%D9%86-%D9%83%D9%84%D9%8A%D9%83-
 
 Royal CRM (WEB): http://37.27.213.99/web/
 
+Varny 
+Android: https://play.google.com/store/apps/details?id=anubis.appz.varny_app
+Ios: https://apps.apple.com/eg/app/varny-app/id6575345607?platform=iphone
+
 qbs 
 Android : https://play.google.com/store/apps/details?id=com.academy.qabbas
 
@@ -44,10 +48,6 @@ Android : https://play.google.com/store/apps/details?id=com.kirotravel.hotel
 
 Kiro Travel (Commander un VTC)(Franch only)
 Android : https://play.google.com/store/apps/details?id=com.kirodev.commander
-
-Varny 
-Android: https://play.google.com/store/apps/details?id=com.app.varny
-Ios: https://apps.apple.com/eg/app/varny-app/id6575345607?platform=iphone
 
 Doktore Min
 Android: https://play.google.com/store/apps/details?id=app.rojava.doktoremin
