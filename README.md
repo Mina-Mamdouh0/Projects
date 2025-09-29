@@ -1,10 +1,23 @@
+C Store
+Android : https://play.google.com/store/apps/details?id=com.ecommerce.candy.store
+
+Al-Jalabi Auto Parts
+Android : https://play.google.com/store/apps/details?id=co.alchalaby.mystore
+Ios : https://apps.apple.com/ae/app/%D8%A7%D9%84%D8%AC%D9%84%D8%A8%D9%8A-%D9%84%D9%82%D8%B7%D8%B9-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA/id6747520204
+
+Maestro Academy of Law
+Android : https://play.google.com/store/apps/details?id=com.elmustro.appeduction
+
 elbd3a 
-Adres : https://play.google.com/store/apps/details?id=goods.goods
+Android: https://play.google.com/store/apps/details?id=goods.goods
 Ios : https://apps.apple.com/us/app/%D8%A7%D9%84%D8%A8%D8%B6%D8%A7%D8%B9%D8%A9/id6737291419
 
 Sharikni
 Android: https://play.google.com/store/apps/details?id=com.sharikni.rent
 Ios: https://apps.apple.com/us/app/sharikni/id6447753177
+
+Online measurement platform
+Android : https://play.google.com/store/apps/details?id=com.elnqais.online
 
 eltwheed school 
 Android : https://play.google.com/store/apps/details?id=com.tawheed.schools
